@@ -1,3 +1,4 @@
+package soal1;
 class Player extends DamageableObject {
     private int Score;
     private int LivesRemaining;

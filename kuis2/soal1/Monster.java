@@ -1,3 +1,4 @@
+package soal1;
 class Monster extends DamageableObject {
     private int ThreatLevel;
     private String Color;

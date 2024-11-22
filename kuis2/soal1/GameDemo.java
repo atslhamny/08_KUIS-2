@@ -1,3 +1,4 @@
+package soal1;
 public class GameDemo {
     public static void main(String[] args) {
         // Membuat player

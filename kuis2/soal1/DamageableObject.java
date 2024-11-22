@@ -1,3 +1,4 @@
+package soal1;
 abstract class DamageableObject extends GameObject {
     protected int MaxHealth;
     protected int Health;

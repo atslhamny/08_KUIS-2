@@ -1,3 +1,4 @@
+package soal1;
 public class GameObject {
     protected String Name;
     protected int PosX;
