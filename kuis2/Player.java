@@ -15,7 +15,7 @@ class Player extends DamageableObject {
         if (LivesRemaining <= 0) {
             System.out.println("Game Over! Final Score: " + Score);
         } else {
-            Health = MaxHealth; // Respawn dengan full health
+            Health = MaxHealth; 
         }
     }
 

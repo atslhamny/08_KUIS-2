@@ -20,6 +20,5 @@ abstract class DamageableObject extends GameObject {
         }
     }
 
-    // Abstract method yang harus diimplementasikan oleh class turunan
     public abstract void OnKilled();
 }
